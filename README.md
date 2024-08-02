@@ -4,17 +4,21 @@
 
 **git init**  
 
-**git config**  
+**git config**	  
 
 **git status**  
 
-**git add** 
+**git add**	
 
-**git commit**
+**git commit**	
 
-**git remote** 
+**git remote**	
 
-**git branch** 
+**git push**	
 
- 
+**git log**	 
+
+**git branch**	
+
+**git help**
 
